@@ -1,7 +1,7 @@
 public class Variables2 {
     public static void main(String[] args){
-        String firstName = "Emtiaz ";
-        String lastName = "Chowdhury";
+        String firstName = "Bakery ";
+        String lastName = "Shihab";
         String fullName = firstName + lastName;
 
         System.out.println(fullName);
