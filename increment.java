@@ -11,22 +11,9 @@ public class increment {
         System.out.println();
 
         ++n;
+        System.out.println("pre increment");
         System.out.println("n = " + n);
         System.out.println("n = " + (++n));
-        System.out.println("n = " + n);
-
-        System.out.println();
-
-        n--;
-        System.out.println("n = " + n);
-        System.out.println("n = " + (--n));
-        System.out.println("n = " + n);
-
-        System.out.println();
-
-        --n;
-        System.out.println("n = " + n);
-        System.out.println("n = " + (n--));
         System.out.println("n = " + n);
 
     }
